@@ -1,0 +1,325 @@
+{
+    "heading": "Assessment",
+    "topics": [
+      {
+        "heading": "Fundamentals",
+        "questions": [
+          {
+            "questionNo": 2,
+            "question": "Find the smallest number which when increased by 7, is exactly divisible by both 40 and 60.",
+            "options": [
+              { "text": "103" },
+              { "text": "107" },
+              { "text": "112" },
+              { "text": "113" }
+            ],
+            "answer": 3,
+            "explanation": "To find the smallest number divisible by both 40 and 60, calculate their LCM. The LCM of 40 and 60 is 120. The question asks for the number which when increased by 7 is divisible by 40 and 60. Subtract 7 from the LCM, i.e., 120 - 7 = 113."
+          },
+          {
+            "questionNo": 3,
+            "question": "A restaurant manager calculates the initial cost of ingredients for a special menu item to be $150. Due to an increase in demand, the cost of ingredients rises by 15%. After the price increase, she receives a 20% discount on the final bill. What is the final amount she needs to pay?",
+            "options": [
+              { "text": "$126" },
+              { "text": "$138" },
+              { "text": "$162" },
+              { "text": "$180" }
+            ],
+            "answer": 1,
+            "explanation": "First, calculate the new cost of ingredients after a 15% increase: $150 + 15% of $150 = $150 + $22.50 = $172.50. Next, apply the 20% discount: $172.50 - 20% of $172.50 = $172.50 - $34.50 = $138."
+          },
+          {
+            "questionNo": 4,
+            "question": "The ratio of the height to the base of a triangle is 4:3. If the height is 6 cm longer than the base, find the area of the triangle.",
+            "options": [
+              { "text": "212 cm²" },
+              { "text": "216 cm²" },
+              { "text": "312 cm²" },
+              { "text": "315 cm²" }
+            ],
+            "answer": 1,
+            "explanation": "Let the base of the triangle be x cm. Then the height is x + 6 cm. Using the ratio 4:3, we set up the equation: (x + 6)/x = 4/3. Solving gives x = 18 cm (base), and the height = 18 + 6 = 24 cm. Using the formula for the area of a triangle: Area = 1/2 × base × height = 1/2 × 18 × 24 = 216 cm²."
+          },
+          {
+            "questionNo": 5,
+            "question": "If Noah’s income is 20% less than Amelia’s income, then by what percent is Noah’s income more than Amelia’s income?",
+            "options": [
+              { "text": "15%" },
+              { "text": "20%" },
+              { "text": "25%" },
+              { "text": "30%" }
+            ],
+            "answer": 2,
+            "explanation": "Let Amelia's income be A and Noah's income be N. Since Noah's income is 20% less than Amelia's: N = 0.80A. To find by what percent Noah's income is more than Amelia's: Percent increase = (N - A) / A × 100% = (0.80A - A) / A × 100% = -0.20A / A × 100% = -20%."
+          },
+          {
+            "questionNo": 7,
+            "question": "The perimeter of a rectangle is 40 cm. The rectangle is cut into four smaller rectangles of equal size, as shown in the diagram. If each smaller rectangle has the same dimensions, what is the perimeter of one of these smaller rectangles?<br><img width='50%' src='./assests/images/question/1.png'>",
+            "options": [
+              { "text": "10 cm" },
+              { "text": "15 cm" },
+              { "text": "20 cm" },
+              { "text": "25 cm" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 8,
+            "question": "In a bookstore, Emma is organizing books into shelves. Each shelf holds 8 books. She has 196 books. She wants to fill 28 shelves. How many more books does she need?",
+            "options": [
+              { "text": "4" },
+              { "text": "12" },
+              { "text": "20" },
+              { "text": "28" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 9,
+            "question": "A box contains three types of balls: green, orange, and purple. There are an equal number of green balls and orange balls. There are half as many purple balls as there are green balls. One ball is selected at random. What is the probability of selecting a purple ball?",
+            "options": [
+              { "text": "1/2" },
+              { "text": "1/5" },
+              { "text": "1/6" },
+              { "text": "1/10" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 11,
+            "question": "If a ladder 10 m long reaches a window 8 m above the ground, then the distance of the foot of the ladder from the base of the wall is:",
+            "options": [
+              { "text": "18 m" },
+              { "text": "8 m" },
+              { "text": "6 m" },
+              { "text": "4 m" }
+            ],
+            "answer": 2,
+            "explanation": "The ladder forms a right triangle with the wall and the ground. Using the Pythagorean theorem:\n\\[ x^2 + 8^2 = 10^2 \\]\n\\[ x^2 + 64 = 100 \\]\n\\[ x^2 = 36 \\]\n\\[ x = 6 \\].\nThe distance from the foot of the ladder to the base of the wall is 6 m."
+          },
+          {
+            "questionNo": 12,
+            "question": "A weather station recorded the maximum temperatures for a city over a week in April. Calculate the mean maximum temperature for that week.<br><img width='80%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "24°C" },
+              { "text": "25°C" },
+              { "text": "26°C" },
+              { "text": "27°C" }
+            ],
+            "answer": 1,
+            "explanation": "To find the mean maximum temperature, add up all the maximum temperatures and divide by the number of days: \n\\[ \\text{Mean} = \\frac{22 + 25 + 24 + 26 + 23 + 27 + 28}{7} = 25 \\degree \\text{C} \\]."
+          },
+          {
+            "questionNo": 13,
+            "question": "Evaluate the following expression:<br><img width='90%' src='./assests/images/question/6.png'>",
+            "options": [
+              { "text": "10" },
+              { "text": "11" },
+              { "text": "12" },
+              { "text": "14" }
+            ],
+            "answer": 1,
+            "explanation": "Simplify the expression step by step:\n\\[ 15 - 3(2^2 + 4) \\div 2^3 + 2 + \\frac{24}{8} \\]\n\\[ = 15 - 3(4 + 4) \\div 8 + 2 + 3 \\]\n\\[ = 15 - 3(8) \\div 8 + 5 \\]\n\\[ = 15 - 12 \\div 8 + 5 \\]\n\\[ = 15 - 1.5 + 5 \\]\n\\[ = 11 \\]."
+          },
+          {
+            "questionNo": 14,
+            "question": "What will be the missing value (?).<br><img width='50%' src='./assests/images/question/3.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "6" },
+              { "text": "15" },
+              { "text": "30" }
+            ],
+            "answer": 3,
+            "explanation": "At each level, if we multiply the numbers, the value equals the starting number. Using this pattern, the missing value is 30."
+          },
+          {
+            "questionNo": 16,
+            "question": "Someone claims that 6x + 5 will always be a prime number when x is a whole number. Is this statement true?",
+            "options": [
+              { "text": "Yes" },
+              { "text": "No" },
+              { "text": "True, but requires tedious calculations to verify" },
+              { "text": "None of the above" }
+            ],
+            "answer": 1,
+            "explanation": "For x = 5, 6x + 5 = 35, which is not a prime number. Hence, the statement is false."
+          },
+          {
+            "questionNo": 17,
+            "question": "Sophia has a collection of 72 coins consisting of pennies, nickels, and dimes. She has 28 pennies in her collection. If she selects a coin at random, the probability that it is a nickel is 1/3. How many dimes are in Sophia’s collection?",
+            "options": [
+              { "text": "12" },
+              { "text": "16" },
+              { "text": "20" },
+              { "text": "24" }
+            ],
+            "answer": 2,
+            "explanation": "Let N be the number of nickels and D be the number of dimes. Given that the probability of picking a nickel is 1/3, we can set up the equation: N = (1/3) × 72 = 24. There are 28 pennies, so the total number of coins is 72 = 28 + 24 + D. Solving for D gives D = 72 - 52 = 20. Therefore, there are 20 dimes."
+          },
+          {
+            "questionNo": 18,
+            "question": "Sixty students were surveyed about the number of books they read last month. The results are partially shown in the column graph below, but the bars for four and five books are missing. The number of students who read four books is three times the number who read five books. How many students read four books?<br><img width='65%' src='./assests/images/question/4.png'>",
+            "options": [
+              { "text": "5" },
+              { "text": "10" },
+              { "text": "12" },
+              { "text": "15" }
+            ],
+            "answer": 3,
+            "explanation": "Let y be the number of students who read five books, then 3y is the number of students who read four books. The total number of students surveyed is 60. Using the available data: 10 + 15 + 10 + 5 + 3y + y = 60, solving gives y = 5. Therefore, the number of students who read four books is 3y = 15."
+          },
+          {
+            "questionNo": 19,
+            "question": "The volume of a rectangular prism is 432 cm³. If the length of the prism is 12 cm and the height is 9 cm, what is the width of the prism?<br><img width='50%' src='./assests/images/question/5.png'>",
+            "options": [
+              { "text": "4 cm" },
+              { "text": "6 cm" },
+              { "text": "8 cm" },
+              { "text": "10 cm" }
+            ],
+            "answer": 0,
+            "explanation": "Using the formula for the volume of a rectangular prism: Volume = length × width × height, the width can be calculated as: width = Volume / (length × height) = 432 / (12 × 9) = 432 / 108 = 4 cm."
+          }
+        
+        ]
+         
+      },
+      {
+        "heading": "Mathematical Reasoning",
+        "questions": [
+          {
+            "questionNo": 21,
+            "question": "The last two terms of the following series are:<br> 4, -8, 8, _, _.",
+            "options": [
+              { "text": "0, 0" },
+              { "text": "1, -1" },
+              { "text": "2, -2" },
+              { "text": "-3, 3" }
+            ],
+            "answer": 0,
+            "explanation": "Series: 4, -8, 8, 0, 0. Pattern: From 4 to -8: multiply by -2. From -8 to 8: multiply by -1. From 8 to 0: multiply by 0. From 0 to 0: multiply by 1."
+          },
+          {
+            "questionNo": 22,
+            "question": "Simon created a number sequence by choosing the first number. He then follows these two rules alternately:<ul><li> Add 50 to get the next number in the sequence.</li><li> Subtract 20 to get the next number in the sequence.</li></ul> The 5th number in Simon’s sequence is 310. What is the 1st number in Simon’s sequence?",
+            "options": [
+              { "text": "250" },
+              { "text": "260" },
+              { "text": "270" },
+              { "text": "280" }
+            ],
+            "answer": 0,
+            "explanation": "Starting from the 5th number (310), we work backwards using the sequence rules in reverse. 4th number: 310+20=330 (because the prior move would have subtracted 20). 3rd number: 330-50=280 (because the prior move would have added 50). 2nd number: 280+20=300 (because the prior move would have subtracted 20). 1st number: 300-50=250 (because the prior move would have added 50)."
+          },
+          {
+            "questionNo": 23,
+            "question": "The time in Tokyo is 9 hours ahead of the time in London. The time in San Francisco is 8 hours behind the time in London. When it is 3 pm in San Francisco, what time is it in Tokyo?",
+            "options": [
+              { "text": "2 am" },
+              { "text": "4 am" },
+              { "text": "6 am" },
+              { "text": "8 am" }
+            ],
+            "answer": 3,
+            "explanation": "First, determine the time in London when it is 3 pm in San Francisco. Since San Francisco is 8 hours behind London: 3 pm in San Francisco + 8 hours = 11 pm in London. Next, calculate the time in Tokyo, which is 9 hours ahead of London: 11 pm in London + 9 hours = 8 am on the next day in Tokyo."
+          },
+          {
+            "questionNo": 24,
+            "question": "Tom has 4 different pairs of shoes and 3 different hats. Lisa has 3 different pairs of shoes and 4 different hats. Each person can make an outfit from their own accessories by choosing 1 pair of shoes and 1 hat. Who has a larger number of possible outfits, and by how many?",
+            "options": [
+              { "text": "Tom has 1 more outfit than Lisa." },
+              { "text": "Lisa has 1 more outfit than Tom." },
+              { "text": "They have the same number of outfits." },
+              { "text": "Tom has 3 more outfits than Lisa." }
+            ],
+            "answer": 2,
+            "explanation": "Calculate the number of outfits each person can create: Tom’s outfits: 4 pairs of shoes * 3 hats = 12 outfits. Lisa’s outfits: 3 pairs of shoes * 4 hats = 12 outfits. Both Tom and Lisa can create 12 outfits each, indicating that they have the same number of possible outfits."
+          },
+          {
+            "questionNo": 25,
+            "question": "Four friends live in houses on a long straight road in this order: Alex, Bob, Charlie, Dan. <ul style='text-align:start'><li>Alex lives 300 m from Bob and 900 m from Dan.</li><li> Charlie lives twice as far from Alex as he does from Bob.</li><li> Bob and Dan live equal distances from Charlie.</li></ul> How far does Dan live from Charlie?",
+            "options": [
+              { "text": "100 m" },
+              { "text": "200 m" },
+              { "text": "300 m" },
+              { "text": "400 m" }
+            ],
+            "answer": 2,
+            "explanation": "Given that Alex lives 300 m from Bob and 900 m from Dan, and assuming a linear road where Alex, Bob, Charlie, and Dan live in order: Charlie lives twice as far from Alex as he does from Bob. If the distance from Bob to Charlie (x) is considered, the distance from Alex to Charlie is 2x. Since Alex to Bob is 300 m, Charlie must be in the middle, at 150 m from Bob. Bob and Dan live equal distances from Charlie. Therefore, the distance from Charlie to Dan is also 300 m."
+          }
+        ]         
+      },
+      {
+        "heading": "Thinking Skills",
+        "questions": [
+          {
+            "questionNo": 26,
+            "question": "If a student studies diligently, then they pass the exam.<br> Which one of the following must be true?",
+            "options": [
+              { "text": "A student who did not study diligently passed the exam." },
+              { "text": "A student who passed the exam studied diligently." },
+              { "text": "A student who studied diligently did not pass the exam." },
+              { "text": "A student who did not pass the exam is the one who did not study diligently." }
+            ],
+            "answer": 3,
+            "explanation": "If a student studies diligently (P), then they pass the exam (Q). The contrapositive 'If not Q, then not P' is always true if 'If P, then Q' is true, making option D the only necessary truth."
+          },
+          {
+            "questionNo": 27,
+            "question": "Miranda argued that electric vehicles (EVs) are not a viable replacement for gasoline-powered cars as the primary mode of transportation. She noted that while EVs reduce emissions, the infrastructure for charging them is not sufficiently widespread to support everyone switching to electric vehicles, especially in rural and underdeveloped areas. <br>Which one of these statements, if true, most strengthens Miranda’s argument?",
+            "options": [
+              { "text": "The technology for electric vehicles has been advancing rapidly, decreasing the cost of EV batteries." },
+              { "text": "Most current models of electric vehicles can travel over 300 miles on a single charge." },
+              { "text": "Many regions, especially rural and underdeveloped areas, lack the necessary number of EV charging stations." },
+              { "text": "Electric vehicles are becoming increasingly popular in urban areas." }
+            ],
+            "answer": 2,
+            "explanation": "Miranda’s main point is that the lack of infrastructure, particularly charging stations, impedes the widespread adoption of electric vehicles. Statement C directly supports this argument by highlighting the scarcity of charging stations in rural and underdeveloped areas, strengthening Miranda’s stance."
+          },
+          {
+            "questionNo": 28,
+            "question": "Video games are often criticized for promoting violence and aggressive behavior among young players. Critics argue that these games desensitize players to violence, encourage conflict, and increase aggression. Consequently, many suggest these games should be heavily regulated or banned. <br>Which one of these statements, if true, most weakens the above argument?",
+            "options": [
+              { "text": "Video games are a popular form of entertainment enjoyed by millions of players worldwide." },
+              { "text": "Many video games provide players with the ability to choose non-violent solutions in conflicts." },
+              { "text": "Studies have shown that violent crime rates have actually decreased in the years following the release of popular violent video games." },
+              { "text": "Most video games that feature violence also involve complex stories and deep character development." }
+            ],
+            "answer": 2,
+            "explanation": "The primary concern highlighted in the argument is that video games increase aggression and promote violence among players. Statement C counters this by showing evidence that violent crime rates have decreased following the release of violent video games, undermining the argument."
+          },
+          {
+            "questionNo": 29,
+            "question": "Sarah is attending a conference with several of her colleagues this weekend. She believes that she will have met everyone there because they work in her department.<br> Which one of the following sentences shows that Sarah has made a mistake?",
+            "options": [
+              { "text": "Sarah might recognize some of the attendees who are not from her department." },
+              { "text": "Most of her department colleagues are attending the conference." },
+              { "text": "Sarah might spend her time at the conference networking with people from other departments." },
+              { "text": "The conference is also open to employees from other branches of the company." }
+            ],
+            "answer": 3,
+            "explanation": "Sarah assumes she will know everyone at the conference because they work in her department. Option D shows her mistake, as the conference being open to employees from other branches indicates attendees Sarah has not met."
+          },
+          {
+            "questionNo": 30,
+            "question": "The school cafeteria has a policy that if you are under 10 years old, you must be accompanied by an older sibling or parent.<br> <b style='text-align:center'>Dialogues:</b><br> Alice: 'John was eating with his older brother, so he must be under 10 years old.'<br> Ben: 'But Lucy was eating alone, so she must be at least 10 years old.' <br>If the information about the cafeteria policy is correct, whose reasoning is correct?",
+            "options": [
+              { "text": "Alice only" },
+              { "text": "Ben only" },
+              { "text": "Both Alice and Ben" },
+              { "text": "Neither Alice nor Ben" }
+            ],
+            "answer": 1,
+            "explanation": "Ben’s reasoning aligns correctly with the policy: since Lucy was eating alone and the policy states that only children who are at least 10 can eat alone, it follows that Lucy must be at least 10. Alice’s reasoning is flawed as children over 10 may still eat with their siblings or parents."
+          }
+        ]
+        
+        
+      }
+    ]
+  }
+  
